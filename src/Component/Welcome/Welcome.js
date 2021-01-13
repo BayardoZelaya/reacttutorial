@@ -6,6 +6,5 @@ export default function Welcome(){
             Welcome to my page
         </h1>
     </div>
-    )
-   
+    )  
 }
